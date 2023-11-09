@@ -2,7 +2,7 @@
 <h2 align="center"> Hi there! 👋 I'm Ido</h2>
 
   
-<img  align="right" src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="400"/>
+<img  align="right" src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="300"/>
 
 <h3>👨🏻‍💻 About Me</h3>
 <ul>
