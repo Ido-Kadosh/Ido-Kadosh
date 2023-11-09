@@ -7,10 +7,10 @@
 <h3>👨🏻‍💻 About Me</h3>
 <ul>
   <li>💼   Full Stack Developer.</li>
-  <li>🌱   My latest project | Repository: <a target="_blank" rel="noopener noreferrer" href="https://github.com/stavTo/Sunday">Click here</a> Live Demo: <a target="_blank" rel="noopener noreferrer" href="https://sunday-twm1.onrender.com/">Click here</a></li>
+  <li>🌱   My latest project | Repository: <a href="https://github.com/stavTo/Sunday">Click here</a> Live Demo: <a href="https://sunday-twm1.onrender.com/">Click here</a></li>
   <li>🎓  I finished Coding-Academy bootcamp and currently work there </li>
   <li>📫 Reach me here: <a target="_blank" rel="noopener noreferrer" href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=1234kadosh@gmail.com">1234kadosh@gmail.com</a></li>
-  <li><img width="20" src="https://img.icons8.com/fluent/48/4a90e2/linkedin.png"/> My linkedin: <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/ido-kadosh-717729252/">Click here</li>
+  <li><img width="20" src="https://img.icons8.com/fluent/48/4a90e2/linkedin.png"/> My linkedin: <a href="https://www.linkedin.com/in/ido-kadosh-717729252/">Click here</li>
 </ul>
 
 
