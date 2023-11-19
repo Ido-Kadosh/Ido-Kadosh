@@ -3,34 +3,16 @@
 
   
 <img  align="right" src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="300"/>
-
 <h3>👨🏻‍💻 About Me</h3>
 <ul>
   <li>💼   Full Stack Developer.</li>
-  <li>🌱   My latest project | Repository: <a href="https://github.com/stavTo/Sunday">Click here</a> Live Demo: <a href="https://sunday-twm1.onrender.com/">Click here</a></li>
+  <li>🚀   My latest project was <a href="https://github.com/stavTo/Sunday">Sunday</a> - A project management app inpsired by monday
   <li>🎓  I finished Coding-Academy bootcamp and currently work there </li>
   <li>📫 Reach me here: <a target="_blank" rel="noopener noreferrer" href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=1234kadosh@gmail.com">1234kadosh@gmail.com</a></li>
-  <li><img width="20" src="https://img.icons8.com/fluent/48/4a90e2/linkedin.png"/> My linkedin: <a href="https://www.linkedin.com/in/ido-kadosh-717729252/">Click here</li>
-</ul>
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ido-kadosh-717729252/) 
 
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS" alt="SASS" width="40" height="40"/>&nbsp;
-  <img src="https://camo.githubusercontent.com/03899ca15bc7682cad570e2638be85926777122dce4b90151d5efc897660d5cd/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6e6f64656a732e706e67" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB" alt="mongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-
-</br>
-
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) <br> ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)     ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
