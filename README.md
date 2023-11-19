@@ -5,7 +5,7 @@
 <img  align="right" src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="300"/>
 <h3>👨🏻‍💻 About Me</h3>
 <ul>
-  <li>💼   Full Stack Developer.</li>
+  <li>💼   Full Stack Developer</li>
   <li>🚀   My latest project was <a href="https://github.com/stavTo/Sunday">Sunday</a> - A project management app inpsired by monday
   <li>🎓  I finished Coding-Academy bootcamp and currently work there </li>
   <li>📫 Reach me here: <a target="_blank" rel="noopener noreferrer" href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=1234kadosh@gmail.com">1234kadosh@gmail.com</a></li>
